@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Accha ektu bosen, cha khan
+          Let's Count!!
         </p>
         <Counter/>
       
